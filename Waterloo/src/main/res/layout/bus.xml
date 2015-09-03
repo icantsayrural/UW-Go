@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical" >
+
+	    <EditText android:id="@+id/stopid"
+	        android:layout_height="wrap_content"
+	        android:layout_width="fill_parent"
+	        android:inputType="number"
+	        android:hint="Stop ID" />
+
+	    <EditText android:id="@+id/routeid"
+	        android:layout_height="wrap_content"
+	        android:layout_width="fill_parent"
+	        android:inputType="number"
+	        android:hint="Route ID" />
+
+	    <Button android:id="@+id/button"
+	    	android:layout_height="wrap_content"
+	        android:layout_width="fill_parent"
+	        android:text="Search For Times" />
+
+		<ListView android:id="@android:id/list"
+	        android:layout_height="wrap_content"
+	        android:layout_width="fill_parent"
+	        android:layout_marginLeft="8dp"
+	        android:layout_marginRight="8dp"
+	        android:layout_marginTop="8dp"
+			android:divider="@android:color/transparent"
+			android:dividerHeight="10.0sp" />
+
+</LinearLayout>

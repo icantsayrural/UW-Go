@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/joanne/Documents/GitSrc/UW-Go/Waterloo/src/main/assets"><file name="fonts/Montserrat-Regular.ttf" path="/home/joanne/Documents/GitSrc/UW-Go/Waterloo/src/main/assets/fonts/Montserrat-Regular.ttf"/></source></dataSet><dataSet config="debug"><source path="/home/joanne/Documents/GitSrc/UW-Go/Waterloo/src/debug/assets"/></dataSet></merger>
