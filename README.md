@@ -1,11 +1,11 @@
 # UW-Go
-An android app that caters to all your needs as a University of Waterloo student
+An android app that caters to all your needs as a University of Waterloo student <br />
 
-Main Page
+Main Page <br/>
 ![Main](images/main.png)
 
-Weather Page
+Weather Page <br/>
 ![Weather](images/weather.png)
 
-Bus Page
+Bus Page <br/>
 ![Bus](images/bus.png)
